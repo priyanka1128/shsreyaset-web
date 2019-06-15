@@ -314,6 +314,8 @@ include('connection.php');
             
                                                     <center>  <button type="submit" name="submit" class="btn btn-danger" >Submit</button>
                                               <button type="update" name="update" class="btn btn-danger">Update</button>   </center>
+					        <center>  <button type="submit" name="submit" class="btn btn-danger" >Submit</button>
+                                              <button type="update" name="update" class="btn btn-danger">Update</button>   </center>
                                     </form>
                                    </div>
                                    </div>
